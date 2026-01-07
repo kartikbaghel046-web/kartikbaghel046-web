@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Kartik Baghel
 
 🎓 B.Sc CS Student  
-💻 Learning Pythont  
+💻 Learning Python
 🚀 Interested in Software Development & Internships  
 
 ### 🔧 Skills
